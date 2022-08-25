@@ -1,0 +1,25 @@
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\Crud Estoque.exe
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\Crud Estoque.deps.json
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\Crud Estoque.runtimeconfig.json
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\Crud Estoque.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\Crud Estoque.pdb
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.csproj.AssemblyReference.cache
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud_Estoque.Form1.resources
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.csproj.GenerateResource.cache
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.AssemblyInfoInputs.cache
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.AssemblyInfo.cs
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.csproj.CoreCompileInputs.cache
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\refint\Crud Estoque.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.pdb
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.genruntimeconfig.cache
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\ref\Crud Estoque.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud Estoque.csproj.CopyComplete
+C:\Users\uedatt\Documents\Crud csharp com sql server\Crud Estoque\Crud Estoque\obj\Debug\net6.0-windows\Crud_Estoque.Properties.Resources.resources
